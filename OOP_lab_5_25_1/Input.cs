@@ -36,7 +36,7 @@ namespace OOP_lab_5_25_1
             Console.WriteLine("Редагування записiв: E");
             Console.WriteLine("Знищення записiв: -");
             Console.WriteLine("Виведення записiв: Enter");
-            Console.WriteLine("Середня платня в день; : A");
+            Console.WriteLine("Середня платня в день: A");
             Console.WriteLine("Кiлькiсть днiв, коли вартiсть хвилини розмови перевищувала задане значення: B");
             Console.WriteLine("Днi, коли кiлькiсть хвилин розмов була парна: O");
             Console.WriteLine("Вихiд: Esc");
